@@ -1,10 +1,8 @@
 ---
-title: It's all blue
+title: Eerst doen, dan denken
 date: "2019-05-06"
-thumbnail: ./cody-davis-253928-unsplash.jpg
-description: What if everything you knew was turned to blue?
+thumbnail: ./wc.jpg
+description: Hup gewoon meteen aan de slag. Hamer er tegenaan, schroevendraaier eronder en gaan!
 ---
 
-![It's all blue](./cody-davis-253925-unsplash.jpg)
-
-![It's all blue](./cody-davis-259003-unsplash.jpg)
+![It's all blue](./wc.jpg)
